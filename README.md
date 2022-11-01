@@ -12,7 +12,7 @@
 - 📫 How to reach me **nilamkhose2001@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Nsho47AGgh5Gublcx1AFhozsvLQjOySj/view?usp=share_link](https://drive.google.com/file/d/1Nsho47AGgh5Gublcx1AFhozsvLQjOySj/view?usp=share_link)
-
+ <br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/nilam-khose-008553220/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nilam-khose-008553220/" height="30" width="40" /></a>
