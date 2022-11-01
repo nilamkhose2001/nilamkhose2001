@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nilam Khose</h1>
 <h3 align="center">I'm a passionate Full Stack Web developer skilled in MERN stack who likes to do experiments and always ready for learning new things 😃. I focuses on writing clean, elegant and efficient code ✨.</h3>
-
+<hr>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nilamkhose2001&label=Profile%20views&color=0e75b6&style=flat" alt="nilamkhose2001" /> </p>
 
 - 🌱 I’m currently learning **MERN Stack**
