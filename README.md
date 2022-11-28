@@ -17,7 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/nilam-khose-008553220/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nilam-khose-008553220/" height="30" width="40" /></a>
- <a href="https://nilamkhose2001.github.io/" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-mEG72uu06UI_8qS5kDGMXGIhfI6XAqWUqg&usqp=CAU" alt="https://www.linkedin.com/in/nilam-khose-008553220/" height="30" width="40" /></a>
+ <a href="https://nilamkhose2001.github.io/" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9e8VXKIyEZQuE-CYSw1UurSenbMA9c-yx_Q&usqp=CAU" alt="https://www.linkedin.com/in/nilam-khose-008553220/" height="30" width="40" /></a>
 
 </p>
 <hr>
