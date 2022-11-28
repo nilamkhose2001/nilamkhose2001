@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **nilamkhose2001@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Nsho47AGgh5Gublcx1AFhozsvLQjOySj/view?usp=share_link](https://drive.google.com/file/d/1Nsho47AGgh5Gublcx1AFhozsvLQjOySj/view?usp=share_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/11-YnSVkv-jIEOklGFNj_eL0GOwlyaOx6/view?usp=share_link](https://drive.google.com/file/d/11-YnSVkv-jIEOklGFNj_eL0GOwlyaOx6/view?usp=share_link)
  <br/>
  <hr>
 <h3 align="left">Connect with me:</h3>
