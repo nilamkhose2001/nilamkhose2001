@@ -22,7 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <br/>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/nilam-khose-008553220/" target="blank"><img align="center" src="https://1000logos.net/wp-content/uploads/2017/03/Linkedin-Logo-500x281.png" alt="https://www.linkedin.com/in/nilam-khose-008553220/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/nilam-khose-008553220/" target="blank"><img align="center" src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnRqgrRLM0ftwdje-GsqJAAydrAp1YBa93PA&usqp=CAU" alt="https://www.linkedin.com/in/nilam-khose-008553220/" height="30" width="40" /></a>
  <a href="https://nilamkhose2001.github.io/" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5M4TQClrMO3_Lt58xKyGZWsfmmS3lh-25ug&usqp=CAU" alt="https://www.linkedin.com/in/nilam-khose-008553220/" height="30" width="40" /></a>
 
 </p>
