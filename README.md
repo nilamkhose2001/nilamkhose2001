@@ -40,7 +40,9 @@
 ## 📊 My Github Stats
   <br/>
     <a href="https://github.com/nilamkhose2001/github-readme-stats"><img alt="nilam khose's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nilamkhose2001&show_icons=true&count_private=true&theme=tokyonight" /></a>&nbsp;  &nbsp;
+ <a href="https://github.com/nilamkhose2001/github-readme-stats">
  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nilamkhose2001&&theme=tokyonight" alt="nilamkhose2001" />
+ </a>
  
   <br/>
   <br/>
@@ -49,7 +51,7 @@
 <br/>
 <br/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nilamkhose2001&&theme=tokyonight" alt="nilamkhose2001" />
+<p>
   <a href="https://github.com/nilamkhose2001/github-readme-stats"><img alt="nilam khose's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilamkhose2001&langs_count=8&count_private=true&layout=compact&exclude_repo=nilamkhose2001.github.io,c3,test,web-Coding,ZaraWeb-Clone&theme=tokyonight" /></a>
  </p>
 
