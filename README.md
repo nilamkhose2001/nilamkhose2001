@@ -39,9 +39,9 @@
 
 ## 📊 My Github Stats
   <br/>
-    <a href="https://github.com/nilamkhose2001/github-readme-stats"><img alt="nilam khose's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nilamkhose2001&show_icons=true&count_private=true&theme=tokyonight" /></a><br/><br/>
+    <a href="https://github.com/nilamkhose2001/github-readme-stats"><img alt="nilam khose's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nilamkhose2001&show_icons=true&count_private=true&theme=highcontrast" /></a><br/><br/>
  <a href="https://github.com/nilamkhose2001/github-readme-stats">
- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nilamkhose2001&&theme=tokyonight" alt="nilamkhose2001" />
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nilamkhose2001&&theme=highcontrast" alt="nilamkhose2001" />
  </a>
  
   <br/>
