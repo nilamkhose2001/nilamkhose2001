@@ -52,7 +52,7 @@
 <br/>
 
 <p>
-  <a href="https://github.com/nilamkhose2001/github-readme-stats"><img alt="nilam khose's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilamkhose2001&langs_count=8&count_private=true&exclude_repo=nilamkhose2001.github.io,c3,test,web-Coding,ZaraWeb-Clone&theme=tokyonight" /></a>
+  <a href="https://github.com/nilamkhose2001/github-readme-stats"><img alt="nilam khose's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilamkhose2001&langs_count=8&count_private=true&exclude_repo=nilamkhose2001.github.io,c3,test,web-Coding,ZaraWeb-Clone&theme=highcontrast" /></a>
  </p>
 
 <br/>
